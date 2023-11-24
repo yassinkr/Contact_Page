@@ -43,7 +43,7 @@ body {
 .form {
     background-color: rgba(255,255,255,0.2); 
     backdrop-filter: blur(10%);
-    width:50%;
+    width:800px;
     height:100%;
     border-radius: 24px;
     display: flex;
@@ -67,10 +67,10 @@ label{
     
 }
 .info{
-    width:94%;
-    height:100%;
+    width: 380px;;
+    height:70px;
     background-color:#F8FAFC ;
-    border-radius: 16px;
+    border-radius: 18px;
     border: none;
     font-weight: bold;
     display: flex;
